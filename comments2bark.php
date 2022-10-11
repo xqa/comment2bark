@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WordPress Comments to Bark
- * Plugin URI: http://github.com/xqa/wordpress-comments2bark
+ * Plugin URI: https://github.com/xqa/comment2bark
  * Author: minge
  * Version: 1.1
  */

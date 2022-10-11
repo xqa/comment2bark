@@ -24,7 +24,7 @@ class Comments2bark_Setting {
     }
 
     function admin_menu() {
-        add_options_page( 'Settings API', 'Settings API', 'delete_posts', 'settings_api_test', array($this, 'plugin_page') );
+        add_options_page( 'Bark通知', 'Bark通知', 'manage_options', 'comments2bark', array($this, 'plugin_page') );
     }
 
 
